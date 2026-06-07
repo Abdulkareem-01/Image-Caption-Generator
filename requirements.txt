@@ -1,0 +1,15 @@
+torch
+torchvision
+transformers
+sentencepiece
+Pillow
+numpy
+safetensors
+huggingface-hub
+tokenizers
+tqdm
+requests
+packaging
+pyyaml
+regex
+tk
