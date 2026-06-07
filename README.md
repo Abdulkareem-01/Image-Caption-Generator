@@ -13,6 +13,17 @@ The architecture combines:
 The model was trained on the **Flickr30k dataset** and can generate meaningful captions for unseen images.
 
 ---
+## Application Screenshots
+
+### GUI Interface
+
+![GUI Interface](screenshots/gui.png)
+
+### Sample Caption Generation
+
+![Caption Output](screenshots/output.png)
+
+---
 
 ## Dataset
 
